@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://waniradahofu.pages.dev/sitemap.xml
